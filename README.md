@@ -26,7 +26,7 @@ EasyTranslate is a simple and interactive language translation web application. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/easytranslate.git
+   git clone https://github.com/Shatakshi033/EasyTranslate-Language-Translator-Web-App.git
    cd easytranslate
    ```
 
