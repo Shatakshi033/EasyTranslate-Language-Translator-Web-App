@@ -16,7 +16,9 @@ EasyTranslate is a simple and interactive language translation web application. 
 
 ### 📸 Demo
 
-*Add a screenshot or link to a hosted version (e.g., GitHub Pages or Netlify) if available.*
+![Preview](https://github.com/Shatakshi033/EasyTranslate-Language-Translator-Web-App/blob/main/Screenshot%20(10).png)
+![Preview](https://github.com/Shatakshi033/EasyTranslate-Language-Translator-Web-App/blob/main/Screenshot%20(9).png)
+
 
 ---
 
